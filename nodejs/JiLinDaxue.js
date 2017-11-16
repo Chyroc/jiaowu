@@ -10,13 +10,13 @@ function login_and_run(username, password) {
     }
   }, function (error, response, body) {
     if (error) {
-      return error
+      console.log(error)
     } else if (response.statusCode !== 200) {
-      return 'response.statusCode != 200'
+      console.log('response.statusCode != 200')
     }
 
     console.log(analysis(body))
-  }).json()
+  })
 }
 
 function analysis(html) {
