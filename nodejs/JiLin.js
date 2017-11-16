@@ -15,7 +15,6 @@ function login_and_run(username, password) {
       return 'response.statusCode != 200'
     }
 
-    console.log(body)
     console.log(analysis(body))
   }).json()
 }

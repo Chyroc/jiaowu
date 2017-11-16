@@ -12,6 +12,7 @@
 
 - [武汉工程大学](http://218.199.178.12/)
 - [吉林大学珠海学院](http://jw.jluzh.com/)
+- [吉林大学-早餐君-成绩](https://www.zaocanjun.com/chengji/index1.6.html)
 
 # 遇到的问题
 
